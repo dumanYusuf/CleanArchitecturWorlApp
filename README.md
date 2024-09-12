@@ -16,5 +16,7 @@ Bu yapı, kodun okunabilirliğini, bakımını ve test edilebilirliğini artır�
 
 Ayrıca bana apidan dönen verilerin hepsnini alıp(dto) paketin içerisinde extensions fonksiyonu yardımıyla bana lazım olan verileri kullanarak kendi model sınıfıma fonksiyon yazdım ve bu sayede tüm verileri almama rağmen sadece bana lazım olan verileri kullanmış oldum.
 
+Gelen verilerin isLoading,errormessage ve success olma durumlarına göre değerlendirdim. success olma durumunda listemi,isLoading durumunda  CircularProgressIndicator ve olası bir hata durumunda errormessage olaylarınıda ele aldım.
+
 ![image alt](https://github.com/dumanYusuf/CleanArchitecturWorlApp/blob/master/cleanWord1.png?raw=true)
 ![image alt](https://github.com/dumanYusuf/CleanArchitecturWorlApp/blob/master/cleanWord2.png?raw=true)
