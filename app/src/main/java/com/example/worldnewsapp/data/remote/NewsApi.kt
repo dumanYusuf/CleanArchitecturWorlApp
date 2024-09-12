@@ -7,7 +7,11 @@ import retrofit2.http.Query
 interface NewsApi {
 
 
-    @GET("/v1/news?access_key=da5e8badd082f98ecabb144d6026e3d4")
+
+    //https://api.mediastack.com/v1/news?access_key=da5e8badd082f98ecabb144d6026e3d4&limit=50
+
+
+    @GET("/v1/news?access_key=da5e8badd082f98ecabb144d6026e3d4&limit=50")
     suspend fun getNewsApi(
         @Query("key") key:String
     ): NewsDto
