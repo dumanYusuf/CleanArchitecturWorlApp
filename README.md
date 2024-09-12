@@ -15,3 +15,5 @@ ViewModel: Kullanıcı arayüzü ile iş mantığı arasındaki köprüyü kurar
 Bu yapı, kodun okunabilirliğini, bakımını ve test edilebilirliğini artırır. Her bir fonksiyon ve sınıf, belirli bir işlevi yerine getirecek şekilde tasarlanmıştır, bu da uygulamanın daha düzenli ve yönetilebilir olmasını sağlar.
 
 Ayrıca bana apidan dönen verilerin hepsnini alıp(dto) paketin içerisinde extensions fonksiyonu yardımıyla bana lazım olan verileri kullanarak kendi model sınıfıma fonksiyon yazdım ve bu sayede tüm verileri almama rağmen sadece bana lazım olan verileri kullanmış oldum.
+
+![image alt](https://github.com/dumanYusuf/CleanArchitecturWorlApp/blob/master/cleanWord1.png?raw=true)
