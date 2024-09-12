@@ -17,3 +17,4 @@ Bu yapı, kodun okunabilirliğini, bakımını ve test edilebilirliğini artır�
 Ayrıca bana apidan dönen verilerin hepsnini alıp(dto) paketin içerisinde extensions fonksiyonu yardımıyla bana lazım olan verileri kullanarak kendi model sınıfıma fonksiyon yazdım ve bu sayede tüm verileri almama rağmen sadece bana lazım olan verileri kullanmış oldum.
 
 ![image alt](https://github.com/dumanYusuf/CleanArchitecturWorlApp/blob/master/cleanWord1.png?raw=true)
+![image alt](https://github.com/dumanYusuf/CleanArchitecturWorlApp/blob/master/cleanWord1.png?raw=true)
